@@ -14,7 +14,7 @@
             <ul>
                 <li>Lundi - Vendredi : 8h - 18h</li>
                 <li>Samedi : 9h - 13h</li>
-                <li>Dimanche : Fermé</li>
+                <li>Dimanche : Fermé  </li>
             </ul>
         </div>
     </div>
